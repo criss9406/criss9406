@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Cristián</h1>
+<h1 align="center">Hola 👋, soy Cristopher</h1>
 
 <h3 align="center">Ingeniero Mecánico ⚙️ Transformando cuellos de botella industriales en Software Autónomo</h3>
 
